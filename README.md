@@ -2,7 +2,7 @@
 
 Welcome to BrainBrawl, an innovative AI-powered platform designed to transform static study materials into dynamic, engaging quiz battles. By leveraging advanced AI and gamification, BrainBrawl aims to improve student engagement, knowledge retention, and academic performance.
 
-#Project Overview
+**Project Overview**
 
 In today’s digital learning landscape, traditional study materials often fail to capture students' attention. BrainBrawl addresses this by transforming any uploaded document, such as a PDF, into a dynamic quiz experience. Our platform goes beyond standard quizzes by introducing gamification through real-time battles where learners compete against peers on the same content.
 
